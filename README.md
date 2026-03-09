@@ -1,60 +1,45 @@
-<div align="center">
+Hi 👋 I'm Taha Bulut
 
-<h1>Hi 👋 I'm Taha Bulut</h1>
-<p><i>A developer who enjoys building systems, servers and web projects.</i></p>
+A developer who enjoys building systems, servers, and web projects.
 
-<a href="https://tahablt.net"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-tahablt.net-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="tahablt.net" /></a>
-<a href="https://nexren.net"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Projects-nexren.net-2563EB%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" alt="nexren.net" /></a>
+🚀 Currently Building
 
-
-
-
-
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D500%26size%3D20%26pause%3D1000%26color%3D3B82F6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DBackend%2BSystems...%3BServer%2BInfrastructure...%3BAutomation%2BTools...%3BWeb%2BPlatforms..." alt="Typing SVG" />
-
-</div>
-
-<h3 align="center">⚙️ Tech I Use</h3>
-
-<p align="center">
-<a href="https://www.google.com/search?q=https://skillicons.dev">
-<!-- skillicons ile dillerin yüksek kaliteli, şık ikonları otomatik çekilir -->
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,docker,nginx,py,nodejs,go,mysql,postgres%26theme%3Ddark" alt="Tech Stack" />
+<a href="https://nexren.net">
+<img src="http://tahablt.net/download/nexren.png" width="250" alt="Nexren Logo">
 </a>
-</p>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🧠 What I Like Building</h3>
-<ul>
-<li><b>Backend systems</b></li>
-<li><b>Server infrastructure</b></li>
-<li><b>Automation tools</b></li>
-<li><b>Web platforms</b></li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<h3>🚀 Current Focus</h3>
-<ul>
-<li>Building scalable web services</li>
-<li>Experimenting with infrastructure</li>
-<li>Creating unique web platforms</li>
-</ul>
-</td>
-</tr>
-</table>
+I'm actively developing and maintaining server infrastructure and projects at Nexren.net, while sharing my personal work on tahablt.net.
 
-<div align="center">
-<p>📫 <b>Want to reach me?</b></p>
+🧠 What I Do & Focus On
+
+⚙️ Backend & Infrastructure: Building scalable web services and managing server environments.
+
+🛠️ Automation: Creating automation tools to streamline workflows and processes.
+
+🌐 Web Platforms: Designing and developing unique web platforms.
+
+💻 Tech Stack
+
 <p>
-<a href="https://tahablt.net">🌐 tahablt.net</a> &nbsp;•&nbsp;
-<a href="https://nexren.net">🚀 nexren.net</a>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Go-00ADD8%3Fstyle%3Dflat-square%26logo%3Dgo%26logoColor%3Dwhite" alt="Go" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-43853D%3Fstyle%3Dflat-square%26logo%3Dnode.js%26logoColor%3Dwhite" alt="Node.js" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2523-239120%3Fstyle%3Dflat-square%26logo%3Dc-sharp%26logoColor%3Dwhite" alt="C#" />
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dblack" alt="Linux" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Nginx-009639%3Fstyle%3Dflat-square%26logo%3Dnginx%26logoColor%3Dwhite" alt="Nginx" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dflat-square%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" />
 </p>
 
+📫 Let's Connect
 
+🌐 Personal Website: tahablt.net
 
+🚀 Projects: nexren.net
 
-
-<p><i>⭐ Always building something new.</i></p>
-</div>
+⭐ Always building something new.
