@@ -5,7 +5,7 @@ A developer who enjoys building systems, servers, and web projects.
 🚀 Currently Building
 
 <a href="https://nexren.net">
-<img src="http://tahablt.net/download/nexren.png" width="250" alt="Nexren Logo">
+<img src="http://tahablt.net/download/nexren.png" width="50" alt="Nexren Logo">
 </a>
 
 I'm actively developing and maintaining server infrastructure and projects at Nexren.net, while sharing my personal work on tahablt.net.
