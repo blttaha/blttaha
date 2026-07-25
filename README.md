@@ -10,10 +10,7 @@
 
 ## `01·` yaptığım şeyler
 
-Buradaki liste sitede canlı proje kartları olarak akıyor — burada aynı işi
-GitHub'ın kendi **pinned repositories** özelliği görüyor. Profilinden
-istediğin repoları sabitlemen yeterli, bu bölümün hemen altında otomatik
-görünürler.
+Projelerime https://tahablt.net#works adresinden ulaşabilirsiniz.
 
 Sık kullandığım araçlar:
 
