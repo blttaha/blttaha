@@ -1,0 +1,40 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@700;800;900&amp;family=EB+Garamond:ital,wght@1,500&amp;family=Fragment+Mono&amp;family=Caveat:wght@600&amp;display=swap');
+      .eyebrow { font-family: 'Fragment Mono', monospace; font-size: 15px; letter-spacing: 4px; fill: #7a6f57; text-transform: uppercase; }
+      .h1 { font-family: 'Unbounded', sans-serif; font-weight: 900; font-size: 72px; fill: #1c2b3a; letter-spacing: -1px; }
+      .h1-accent { font-family: 'Unbounded', sans-serif; font-weight: 900; font-size: 72px; fill: #b23a2e; letter-spacing: -1px; }
+      .lede { font-family: 'EB Garamond', serif; font-style: italic; font-size: 22px; fill: #3a3020; }
+      .hint { font-family: 'Caveat', cursive; font-weight: 600; font-size: 24px; fill: #7a6f57; }
+      .stamp { font-family: 'Unbounded', sans-serif; font-weight: 800; font-size: 20px; fill: #1c2b3a; letter-spacing: 2px; }
+    </style>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#1c2b3a" opacity=".08" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="400" fill="#f2ead4" />
+  <rect width="1200" height="400" fill="url(#dots)" />
+  <rect x="10" y="10" width="1180" height="380" fill="none" stroke="#1c2b3a" stroke-width="2" />
+
+  <!-- "Taha Bulut" — yamuk (el çizimi gibi eğri) çerçeve, sağ üst -->
+  <g transform="rotate(-3 1058 49)">
+    <polygon points="960,24 1156,18 1162,72 954,80" fill="#f2ead4" stroke="#1c2b3a" stroke-width="2" />
+    <text x="1059" y="56" text-anchor="middle" class="stamp">TAHA BULUT</text>
+  </g>
+
+  <text x="70" y="88" class="eyebrow">GİRİŞ — GITHUB</text>
+
+  <text x="68" y="182" class="h1">profilime</text>
+  <text x="68" y="260" class="h1-accent">hoşgeldin!</text>
+  <g transform="translate(68,278)">
+    <path d="M 0 6 Q 6 1 12 6 Q 18 11 24 6 Q 30 1 36 6 Q 42 11 48 6 Q 54 1 60 6 Q 66 11 72 6 Q 78 1 84 6 Q 90 11 96 6 Q 102 1 108 6 Q 114 11 120 6 Q 126 1 132 6 Q 138 11 144 6 Q 150 1 156 6 Q 162 11 168 6 Q 174 1 180 6 Q 186 11 192 6 Q 198 1 204 6 Q 210 11 216 6 Q 222 1 228 6 Q 234 11 240 6 Q 246 1 252 6 Q 258 11 264 6 Q 270 1 276 6 Q 282 11 288 6 Q 294 1 300 6 Q 306 11 312 6 Q 318 1 324 6 Q 330 11 336 6 Q 342 1 348 6 Q 354 11 360 6 Q 366 1 372 6 Q 378 11 384 6 Q 390 1 396 6 Q 402 11 408 6 Q 414 1 420 6 Q 426 11 432 6 Q 438 1 444 6 Q 450 11 456 6 Q 462 1 468 6 Q 474 11 480 6"
+      fill="none" stroke="#b23a2e" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <text x="70" y="330" class="lede">Burası benim not defterim.</text>
+  <text x="70" y="358" class="lede">Bu defter: bitmemiş, karalanmış, gerçeklerden oluşuyor.</text>
+
+  <text x="1130" y="378" text-anchor="end" class="hint" transform="rotate(-2 1130 378)">(devamı aşağıda ↓)</text>
+</svg>
