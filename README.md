@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://tahablt.net">
-  <img src="assets/banner.svg" alt="profilime hoşgeldin!" width="100%" />
+  <img src="/banner.svg" alt="profilime hoşgeldin!" width="100%" />
 </a>
 
 </div>
@@ -19,7 +19,7 @@ Sık kullandığım araçlar:
 ![Rust](https://img.shields.io/badge/Rust-1c2b3a?style=flat-square&logo=rust&logoColor=f2ead4)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1c2b3a?style=flat-square&logo=kubernetes&logoColor=f2ead4)
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="/divider.svg" alt="" width="100%" />
 
 ## `02·` ben kimim
 
@@ -35,7 +35,7 @@ Sık kullandığım araçlar:
 <br>
 **şu an:** [Oyunlayıcı](https://oyunlayici.com/) — Operasyon Yöneticisi
 
-<img src="assets/divider.svg" alt="" width="100%" />
+<img src="/divider.svg" alt="" width="100%" />
 
 ## `03·` iletişim
 
