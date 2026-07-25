@@ -23,11 +23,10 @@ Sık kullandığım araçlar:
 
 ## `02·` ben kimim
 
-> İstanbul'da yaşıyorum, dağıtık sistemler üzerine çalışıyorum. Asıl
-> tutkum karmaşık bir problemi masaya yatırıp herkesin anlayacağı üç
-> cümleye indirmek.
+> Kocaeli'de yaşıyorum. Otomasyonlar, web, mobil ve masaüstü
+> uygulamalarının yapımı, kurgusu ve tasarımıyla uğraşıyorum
 >
-> — hâlâ öğreniyorum, muhtemelen hep öyle kalacak
+> — hâlâ öğreniyorum, hep de böyle devam edecek...
 
 `8 yıl` · `24 proje` · `6 şirket` · `3 oss` · İstanbul · Go/TS/Rust · şu an: müsait
 
