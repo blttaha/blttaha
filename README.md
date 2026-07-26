@@ -43,8 +43,6 @@ bana bir şey yazmak ister misin?
 <!-- aşağıdaki bağlantıları kendi adreslerinle değiştir -->
 [![Website](https://img.shields.io/badge/site-tahablt.net-b23a2e?style=flat-square&logo=safari&logoColor=f2ead4)](https://tahablt.net)
 [![E-posta](https://img.shields.io/badge/e--posta-hi%40tahablt.net-b23a2e?style=flat-square&logo=protonmail&logoColor=f2ead4)](mailto:hi@tahablt.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c2b3a?style=flat-square&logo=linkedin&logoColor=f2ead4)](https://linkedin.com/in/KULLANICI_ADIN)
-[![X](https://img.shields.io/badge/X-1c2b3a?style=flat-square&logo=x&logoColor=f2ead4)](https://x.com/KULLANICI_ADIN)
 
 <br>
 
