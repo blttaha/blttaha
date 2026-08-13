@@ -42,12 +42,12 @@ bana bir şey yazmak ister misin?
 
 <!-- aşağıdaki bağlantıları kendi adreslerinle değiştir -->
 [![Website](https://img.shields.io/badge/site-tahablt.net-b23a2e?style=flat-square&logo=safari&logoColor=f2ead4)](https://tahablt.net)
-[![E-posta](https://img.shields.io/badge/e--posta-hi%40tahablt.net-b23a2e?style=flat-square&logo=protonmail&logoColor=f2ead4)](mailto:hi@tahablt.net)
+[![E-posta](https://img.shields.io/badge/e--posta-hi%40tahablt.net-b23a2e?style=flat-square&logo=protonmail&logoColor=f2ead4)](mailto:me@tahablt.net)
 
 <br>
 
 <div align="center">
 
-`© 2026 TAHA BULUT` · `İSTANBUL`
+`© 2026 TAHA BULUT` · `KOCAELİ`
 
 </div>
