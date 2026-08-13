@@ -28,9 +28,9 @@ Sık kullandığım araçlar:
 >
 > — hâlâ öğreniyorum, hep de böyle devam edecek...
 
-`8 yıl` · `24 proje` · `6 şirket` · `3 oss` · İstanbul · Go/TS/Rust · şu an: müsait
+`6 yıl` · `15+ proje` · `4 şirket` · Kocaeli · şu an: müsait
 
-**şu an:** [ICM Makina ve Mühendislik](https://icmmakina.com/) — Stajyer | Otomasyon Yönetimi 
+**şu an:** [ICM Makina ve Mühendislik](https://icmmakina.com/) — Otomasyon Yönetimi 
 <br>
 **şu an:** [Oyunlayıcı](https://oyunlayici.com/) — Operasyon Yöneticisi
 
