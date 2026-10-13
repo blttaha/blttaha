@@ -30,7 +30,7 @@ Sık kullandığım araçlar:
 
 `6 yıl` · `15+ proje` · `4 şirket` · Kocaeli · şu an: müsait
 
-**şu an:** [ICM Makina ve Mühendislik](https://icmmakina.com/) — Otomasyon Yönetimi 
+**şu an:** [ICM Makina ve Mühendislik](https://icmmakina.com/) — Otomasyon Yönetimi - Stajyer
 <br>
 **şu an:** [Oyunlayıcı](https://oyunlayici.com/) — Operasyon Yöneticisi
 
